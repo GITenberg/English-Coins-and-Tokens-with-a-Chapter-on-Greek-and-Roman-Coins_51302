@@ -1,0 +1,34 @@
+_repo: English-Coins-and-Tokens-with-a-Chapter-on-Greek-and-Roman-Coins_51302
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jewitt, Llewellynn Frederick William
+    birthdate: 1816
+    deathdate: 1886
+    gutenberg_agent_id: '41757'
+    url: http://www.gutenberg.org/2009/agents/41757
+  - agent_name: Head, Barclay V. (Barclay Vincent)
+    aliases:
+    - Head, B. V. (Barclay Vincent)
+    - Head, Barclay Vincent
+    birthdate: 1844
+    deathdate: 1914
+    gutenberg_agent_id: '46349'
+    url: http://www.gutenberg.org/2009/agents/46349
+description: ''
+gutenberg_issued: '2016-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coins, British'
+- !lcsh 'Tokens -- Great Britain'
+- !lcsh 'Numismatics -- Great Britain'
+- !lcc 'CJ'
+- GITenberg
+title: English Coins and Tokens, with a Chapter on Greek and Roman Coins
+url: http://www.gutenberg.org/ebooks/51302
