@@ -1,5 +1,8 @@
 _repo: English-Coins-and-Tokens-with-a-Chapter-on-Greek-and-Roman-Coins_51302
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51302-h/images/front_cover1.jpg
 creator:
   authors:
   - agent_name: Jewitt, Llewellynn Frederick William
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46349'
     url: http://www.gutenberg.org/2009/agents/46349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51302#English-Coins-and-Tokens-with-a-Chapter-on-Greek-and-Roman-Coins
 gutenberg_issued: '2016-02-26'
 gutenberg_type: Text
 identifiers:
